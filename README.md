@@ -11,7 +11,10 @@ el registro de ingreso no esta creado , se debe crear desde la base.
 
 Consultas:
 ----------
-1) tengo duda como puedo llamar a la screen ingresos pasandole el id.
+1) tengo duda como puedo llamar a la screen ingresos desde consultas.py pasandole el id.
 
-2) la forma que lo estoy realizando  con la separacion de los modulos es la Correcta ????
+2) la forma que lo estoy realizando con la separacion de los modulos es la correcta ????
+o se hace de otra forma.
+
+Muchas Gracias.
 
